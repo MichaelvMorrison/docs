@@ -184,7 +184,7 @@ structure:
 ---
 ```
 
-#### attributes
+#### Attributes
 
 - module_title
 - module_img - relative to the /public directory
@@ -209,7 +209,7 @@ desc: "Technical resources and support for the CS Calculator 2.0"
 ---
 ```
 
-#### attributes
+#### Attributes
 
 - title
 - desc
@@ -252,7 +252,7 @@ This file corresponds to this page:
 
 Currently there is only one layout option available `"twolist"` which requires you to specify the names and children (in the form of relative URL's) of two lists, the first one includes desc information and the second doesn't.
 
-##### attributes
+##### Attributes
 
 - title
 - desc
